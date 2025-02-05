@@ -21,6 +21,6 @@ Fitness enthusiast (Cycling & Swimming & Runner -> Hopefully become an Iron Man 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/anshumankmr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anshumankumarcs)
 
-[HN](https://meet.hn/city/in-Bengaluru)
+[HackerNews]([https://meet.hn/city/in-Bengaluru](https://news.ycombinator.com/threads?id=anshumankmr))
 
 </div>
