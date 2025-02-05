@@ -15,7 +15,7 @@ Engineer passionate about AI/ML and building impactful tech solutions.
 
 ---
 
-JAMStack enthusiast • Movie buff • Amateur chef  
+JAMStack enthusiast (Strapi + Gatsby <3) • Movie buff • Amateur chef  
 Fitness enthusiast (Cycling & Swimming & Runner -> Hopefully become an Iron Man soon)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/anshumankmr)
