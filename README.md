@@ -8,8 +8,7 @@ Engineer passionate about AI/ML and building impactful tech solutions.
 ### Currently Building With
 `Python` • `Flask` • `FastAPI` • `Node.js` • `ML/DL` • `Generative-AI`
 
-### Based in Indiranagar, Bangalore <3
-
+### Delhiwalla in Bangalore <3
 
 
 
