@@ -9,7 +9,7 @@ Engineer passionate about AI/ML and building impactful tech solutions.
 
 Spark, MCP, Agentic meshes, and ML at global scale.
 
-
+  
 ### Delhiwalla in Bangalore <3
 
 
